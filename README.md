@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,SQL,Power Bi**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/debanjan-bhattacharjee-851590171](www.linkedin.com/in/debanjan-bhattacharjee-851590171)
+- 👨‍💻 All of my projects are available at [https://github.com/Debanjan12091996/projectsforyodaafy)
 
 - 📫 How to reach me **debanjanbhattacharya2015@gmail.com**
 
